@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prac 2</string>
+    <string name="display_average">display average</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="exam_1">Exam 1</string>
+    <string name="exam_2">Exam 2</string>
+    <string name="your_average_is">Your Average is</string>
+</resources>
